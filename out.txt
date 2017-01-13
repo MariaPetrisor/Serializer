@@ -1,0 +1,16 @@
+{pack.Line:sysId#1284693
+	"l":0.0
+	"p":[[Lpack.Point;[2]:sysId#2430287
+		"0":{pack.Point:sysId#17689166
+			"super.name":"punct"
+			"x":10
+			"y":15
+		}
+		"1":->sysId#17689166]
+	"p1":{pack.Point:sysId#21933161
+		"super.name":"punct"
+		"x":10
+		"y":15
+	}
+	"super.super.name":"linie"
+}
